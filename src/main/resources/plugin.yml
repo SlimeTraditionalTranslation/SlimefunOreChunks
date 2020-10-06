@@ -1,7 +1,7 @@
 name: SlimefunOreChunks
 version: ${project.version}
 author: TheBusyBiscuit
-description: A Slimefun Addon that adds the various Dusts to the GEO-Miner
+description: 黏液科技附加 礦石塊 繁體翻譯版.
 website: https://github.com/TheBusyBiscuit/SlimefunOreChunks
 
 main: io.github.thebusybiscuit.slimefunorechunks.OreChunks
