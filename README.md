@@ -6,7 +6,8 @@
 
 請注意,這些礦石並不會在世界上生成,你只能通過GEO挖礦機獲得它們.
 
-[官方原碼連結](https://github.com/TheBusyBiscuit/SlimefunOreChunks)
+此為**非官方**版本, 請勿在該作者的問題追蹤內回報!
+[原作者連結](https://github.com/TheBusyBiscuit/SlimefunOreChunks)
 
 ## 下載黏液科技礦石塊
 繁體翻譯版: [構建頁面](https://xmikux.github.io/builds/xMikux/SlimefunOreChunks/master)<br>

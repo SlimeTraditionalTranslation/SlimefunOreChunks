@@ -8,7 +8,7 @@ import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.Item.CustomItem;
 import me.mrCookieSlime.Slimefun.Lists.RecipeType;
 import me.mrCookieSlime.Slimefun.Objects.Category;
-import me.mrCookieSlime.Slimefun.bstats.bukkit.Metrics;
+//import me.mrCookieSlime.Slimefun.bstats.bukkit.Metrics;
 import me.mrCookieSlime.Slimefun.cscorelib2.skull.SkullItem;
 
 public class OreChunks extends JavaPlugin implements SlimefunAddon {
@@ -16,7 +16,7 @@ public class OreChunks extends JavaPlugin implements SlimefunAddon {
 	@Override
 	public void onEnable() {
 
-		new Metrics(this, 5683);
+		//new Metrics(this, 5683);
 		
 		Category category = new Category(new NamespacedKey(this, "ore_chunks"), new CustomItem(SkullItem.fromHash("dde8f949bbf3a42782c531fbf8de9dc2d8cd84dd7cb8f5d5328eeda83956aac8"), "&6礦石塊"));
 		
