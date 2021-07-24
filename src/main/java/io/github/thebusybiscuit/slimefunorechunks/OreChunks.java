@@ -46,7 +46,10 @@ public class OreChunks extends JavaPlugin implements SlimefunAddon {
 		new OreChunk(this, category, "ZINC_ORE_CHUNK", "鋅石塊", 3, "63f82f20266b4b8e0456110379f941fca16413846e231e8ac202dc2caf7ffb41",
 		SlimefunItems.ZINC_DUST).register(this);
 
-		new OreChunk(this, category, "NICKEL_ORE_CHUNK", "鎳石塊", "&7你可以將其使用冶煉爐熔煉成錠", 2, "3ba30df8316cdfe3c5b1ad7aa9775c94c3ad5e502ea1254efeb41344f7962381",
+		new OreChunk(this, category, "MAGNESIUM_ORE_CHUNK", "鎂石塊", 4, "e8c99d857a5b34331699ce6b5449d8d75f6c50b294ea1a29108f66ca086528bb",
+		SlimefunItems.MAGNESIUM_DUST).register(this);
+
+		new OreChunk(this, category, "NICKEL_ORE_CHUNK", "鎳石塊", "&7你可以將其使用冶煉爐熔煉成錠, 2, "3ba30df8316cdfe3c5b1ad7aa9775c94c3ad5e502ea1254efeb41344f7962381", 
 		RecipeType.SMELTERY, SlimefunItems.NICKEL_INGOT).register(this);
 		
 		new OreChunk(this, category, "COBALT_ORE_CHUNK", "鈷石塊", "&7你可以將其使用冶煉爐熔煉成錠", 1, "ec54a54b1a49c29686be1c6e3e05dd068f85e994c8c893838cc5878b5446bc8a",
@@ -60,7 +63,7 @@ public class OreChunks extends JavaPlugin implements SlimefunAddon {
 
 	@Override
 	public String getBugTrackerURL() {
-		return "https://github.com/xMikux/SlimefunOreChunks/issues";
+		return "https://github.com/SlimeTraditionalTranslation/SlimefunOreChunks/issues";
 	}
 
 }

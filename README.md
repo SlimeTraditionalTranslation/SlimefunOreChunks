@@ -10,11 +10,11 @@
 [原作者連結](https://github.com/TheBusyBiscuit/SlimefunOreChunks)
 
 ## 下載黏液科技礦石塊
-繁體翻譯版: [構建頁面](https://xmikux.github.io/builds/xMikux/SlimefunOreChunks/master)<br>
+繁體翻譯版: [構建頁面](https://xmikux.github.io/builds/SlimeTraditionalTranslation/SlimefunOreChunks/master)<br>
 官方開發版: [開發版構建頁面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimefunOreChunks/master/)
 <p align="center">
-  <a href="https://xmikux.github.io/builds/xMikux/SlimefunOreChunks/master/">
-    <img src="https://xmikux.github.io/builds/xMikux/SlimefunOreChunks/master/badge.svg" alt="構建伺服器"/>
+  <a href="https://xmikux.github.io/builds/SlimeTraditionalTranslation/SlimefunOreChunks/master/">
+    <img src="https://xmikux.github.io/builds/SlimeTraditionalTranslation/SlimefunOreChunks/master/badge.svg" alt="構建伺服器"/>
   </a>
 </p>
 
