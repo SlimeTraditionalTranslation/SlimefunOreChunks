@@ -4,4 +4,6 @@ rules:
     upstream: TheBusyBiscuit:master
     mergeMethod: merge
     conflictReviewers:
-      - SlimeTraditionalTranslation/Translate-Maintainer
+      - weiii-joe
+      - xhuanfux
+      - xMikux
